@@ -446,12 +446,6 @@ videoRecorder.speed = 100;
 | Android | [Chrome](https://play.google.com/store/apps/details?id=com.chrome.beta&hl=en) / [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) / [Opera](https://play.google.com/store/apps/details?id=com.opera.browser) |
 | Microsoft Edge | [Normal Build](https://www.microsoft.com/en-us/windows/microsoft-edge) |
 
-## Contributors
-
-1. [Muaz Khan](https://github.com/muaz-khan)
-2. [neizerth](https://github.com/neizerth)
-3. [andersaloof](https://github.com/andersaloof)
-
 ## License
 
 [MediaStreamRecorder.js](https://github.com/streamproc/MediaStreamRecorder) library is released under [MIT licence](https://github.com/streamproc/MediaStreamRecorder/blob/master/LICENSE).
